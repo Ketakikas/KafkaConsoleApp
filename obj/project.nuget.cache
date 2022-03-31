@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZVhSlAnkbxMIOmkIEIyScuO0WkjSaU70F3iUwVTysC42hNI5ZqC7eSnLKUIc6EdjWolM2s1iUN8vVI4Oaxz/oA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KetakiK2\\Desktop\\Ketaki\\Impact\\Kafka\\KafkaConsoleApp\\KafkaConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KetakiK2\\.nuget\\packages\\confluent.kafka\\1.8.2\\confluent.kafka.1.8.2.nupkg.sha512",
+    "C:\\Users\\KetakiK2\\.nuget\\packages\\librdkafka.redist\\1.8.2\\librdkafka.redist.1.8.2.nupkg.sha512",
+    "C:\\Users\\KetakiK2\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
